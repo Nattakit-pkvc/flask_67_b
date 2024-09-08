@@ -1,0 +1,11 @@
+***
+create new repository name = "flask_67_b"
+สร้าง Project ใหม่
+***
+
+***
+pip install flask
+pip install mysql-connector-python
+ติดตั้ง pip ที่ต้องใช้
+***
+
